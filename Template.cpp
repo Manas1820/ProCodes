@@ -36,6 +36,18 @@ typedef vector<vl>		vvl;
 #define clr(x) memset(x, 0, sizeof(x))
 #define sortall(x) sort(all(x))
 
+bool isprime(ll num)
+{
+    bool flag=true;
+    for(ll i = 2; i*i<=num; i++) {
+       if(num % i == 0) {
+          flag = false;
+          break;
+       }
+    }
+    return flag;
+}
+
 int main() {
     fastio();
     ll int t;
