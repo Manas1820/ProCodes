@@ -3,25 +3,43 @@
   <a href="https://github.com/Manas1820/ProCodes/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" />
   </a>
+  <a href="https://forms.gle/ibn5hPBUpTv7JBbF9" target="_blank">
+    <img alt="License: MIT" src="https://github.com/aleen42/badges/raw/master/src/slack.svg" />
+  </a>
 </p>
 
 > codes of questions on code chef
 
 ### 🏠 [Homepage](https://github.com/Manas1820/ProCodes)
 
-## Author
+### 🤝 [Join Slack Community](https://forms.gle/ibn5hPBUpTv7JBbF9)
+
+## Our Aim
+
+> to solve all available questions on code chef
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+- Feel free to check [issues page](https://github.com/Manas1820/ProCodes/issues).
+
+- do check our [Contributing guidlines](CONTRIBUTING.md)
+
+- strictly follow the [Code of Conduct](CODE_OF_CONDUCT.md) and the [general rules of Codechef]()
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## Authors
 
 👤 **Manas Gupta**
 
 - Github: [@manas1820](https://github.com/manas1820)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Manas1820/ProCodes/issues).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+---
 
 ## 📝 License
 
