@@ -49,21 +49,6 @@ void solve(){
             else arr[i][j]=-1;
         }
     }
-    /*lo(n){
-        for(int j=0;j<n;j++){
-            cout<<arr[i][j]<<" ";
-        }
-        cout<<endl;
-    }
-    lo(n){
-        int count=0;
-        for(int j=0;j<n;j++){
-            if(arr[i][j]>0) count++;
-        }
-        a[i]=count;
-    }
-    cout<<*min_element(a,a+n)+1<<" "<<*max_element(a,a+n)+1<<endl;
-    */
     lo(n){
         set<int>s;
         for(int j=0;j<n;j++){
