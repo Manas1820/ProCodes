@@ -33,6 +33,11 @@ typedef vector<vl>		vvl;
 #define F first
 #define S second
 
+#define mx 1e17
+#define mn LONG_MIN
+#define mod 998244353
+#define mode 998244351
+
 #define all(x) x.begin(), x.end()
 #define clr(x) memset(x, 0, sizeof(x))
 #define sortall(x) sort(all(x))
