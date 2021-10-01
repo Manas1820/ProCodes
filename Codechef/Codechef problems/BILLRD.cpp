@@ -1,0 +1,95 @@
+//question link: https://www.codechef.com/problems/BILLRD
+//authorID: pragati1610
+// Example Input
+// 2
+// 5 5 4 4
+// 5 2 3 1
+// Example Output
+// 5 5
+// 3 5
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define fastio() ios_base::sync_with_stdio(false);cin.tie(NULL)
+
+#define lo(n) for(int i=0;i<n;i++)
+#define fo(k,n) for(int i=k;i<n;i++)
+
+#define ll long long
+#define deb(x) cout << #x << "=" << x << endl
+
+#define si(x)	scanf("%d",&x)
+#define sl(x)	scanf("%lld",&x)
+#define ss(s)	scanf("%s",s)
+
+#define pi(x)	printf("%d\n",x)
+#define pl(x)	printf("%lld\n",x)
+#define ps(s)	printf("%s\n",s)
+
+typedef vector<int>		vi;
+typedef vector<ll>		vl;
+typedef pair<int, int>	pii;
+typedef pair<ll, ll>	pl;
+typedef vector<pii>		vpii;
+typedef vector<pl>		vpl;
+typedef vector<vi>		vvi;
+typedef vector<vl>		vvl;
+
+#define pb push_back
+#define mp make_pair
+
+#define F first
+#define S second
+
+#define all(x) x.begin(), x.end()
+#define clr(x) memset(x, 0, sizeof(x))
+#define sortall(x) sort(all(x))
+
+void solve(){
+    int N, K, x, y, arr[4][2];
+    cin >> N >> K >> x >> y;
+    if(x==y){
+        cout << N <<" " << N <<endl;
+    } else if(x<y) {
+        switch(K%4){
+            case 0:
+                cout<<0<<" "<<y-x;
+                break;
+            case 1:
+                cout<<x+N-y<<" "<<N;
+                break;
+            case 2:
+                cout<<N<<" "<<N-y+x;
+                break;
+            case 3:
+                cout<<y-x<<" "<<0;
+                break;
+        }
+
+    } else {
+        switch(K%4){
+            case 0:
+                cout<<x-y<<" "<<0;
+                break;
+            case 1:
+                cout<<N<<" "<<N+y-x;
+                break;
+            case 2:
+                cout<<N+y-x<<" "<<N;
+                break;
+            case 3:
+                cout<<0<<" "<<x-y;
+                break;
+        }
+    }
+    cout<<endl;
+}
+
+int main() {
+    ll int t;
+    sl(t);
+	while(t--)
+	    solve();
+	return 0;
+}
