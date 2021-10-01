@@ -1,3 +1,13 @@
+//question link: https://www.codechef.com/problems/BILLRD
+//authorID: pragati1610
+// Example Input
+// 2
+// 5 5 4 4
+// 5 2 3 1
+// Example Output
+// 5 5
+// 3 5
+
 #include <bits/stdc++.h>
 using namespace std;
 
