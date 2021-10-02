@@ -16,7 +16,8 @@
 
 ## Our Aim
 
-> to solve all available questions on code chef
+>To gain proficiency in c++ and DSA
+> to solve all available questions on code chef using c++
 
 
 ## 🤝 Contributing
