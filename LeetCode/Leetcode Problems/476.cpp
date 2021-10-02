@@ -1,3 +1,10 @@
+//question link: https://leetcode.com/problems/number-complement/
+//authorID: pragati1610
+// Example Input
+// 5
+// Example Output
+// 2
+
 #include <bits/stdc++.h>
 
 using namespace std;
