@@ -12,7 +12,7 @@
 
 ### 🏠 [Homepage](https://github.com/Manas1820/ProCodes)
 
-### 🤝 [Join Slack Community](https://forms.gle/ibn5hPBUpTv7JBbF9)
+### 🤝 [Competitive Coders of VIT(Whatsapp Group) ](https://forms.gle/kfnMwmVvu4GUN2ZX6)
 
 ## Our Aim
 
