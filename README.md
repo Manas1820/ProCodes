@@ -38,6 +38,8 @@ Give a ⭐️ if this project helped you!
 
 👤 **Manas Gupta**
 
+Codechef : ⭐⭐⭐⭐
+
 - Github: [@manas1820](https://github.com/manas1820)
 
 ---
