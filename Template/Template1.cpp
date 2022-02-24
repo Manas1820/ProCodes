@@ -55,7 +55,7 @@ bool isprime(ll num)
 }
 
 int main() {
-    fastio();
+    // fastio();
     ll int t;
     sl(t);
 	while(t--)
