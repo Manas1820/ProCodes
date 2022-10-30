@@ -1,5 +1,9 @@
-### QUESTION CODE
-### question codechef link
+<!-- Replace the following with Question Code and Question Link -->
+
+### Question Code
+
+### [Question Link](https://leetcode.com/)
+
 **To test:** Instructions for testing.
 
 <!--  IF YOU ARE FIXING AN ISSUE UNCOMMENT BELOW LINE AND ADD ISSUE NUMBER -->
@@ -7,11 +11,14 @@
 
 ---
 
-##### Code Review #####
+<!-- Code Declaration, replace the applicable with [x] to mark as checked -->
 
-- [ ] Is the code of an acceptable quality?(i.e does it have comments for better understanding)
+##### Code Review
 
-##### Functional Tests #####
+-   [ ] Is the code of Acceptable quality?
+        (refer to [CONTRIBUTING](https://github.com/Manas1820/ProCodes/blob/master/CONTRIBUTING.md))
 
-- [ ] have you add the link to the question on codechef as comments on top
-- [ ] did you give the sample input/output as comments on top
+##### Functional Tests
+
+-   [ ] Added Question Code and Link
+-   [ ] Provided sample input/output as comments in code
